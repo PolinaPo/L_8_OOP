@@ -16,7 +16,7 @@ namespace type_phrases {
 	}
 
 	void proverb::Output(ofstream& ofst) {
-		ofst << "Proverb of country: " << country << ";" << endl;
+		ofst << "\nProverb of country: " << country << ";" << endl;
 	}
 
 	proverb::~proverb() {}

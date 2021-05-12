@@ -22,8 +22,6 @@ namespace type_phrases {
 		void swap(int index_first, int index_second);
 		void sort();
 
-		int get_Size() { return size; };
-
 		container();
 		~container();
 	};

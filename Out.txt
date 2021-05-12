@@ -1,37 +1,58 @@
-Container contains 3 element
-1: Author of aphorism: abc;
-Content: cba
+Container contains 4 element
+
+Author of aphorism: abc;
+Content: cba??
 Evaluation: 7.
-Number of punctuation marks: 0.
-2: Proverb of country: vvv;
-Content: nnn
+Number of punctuation marks: 2.
+
+Proverb of country: vvv;
+Content: nnn!
 Evaluation: 6.
-Number of punctuation marks: 0.
-3: Answer to riddle: adr;
-Content: rda
+Number of punctuation marks: 1.
+
+Answer to riddle: adr;
+Content: rda!!!?
 Evaluation: 5.
-Number of punctuation marks: 0.
+Number of punctuation marks: 4.
+
+Author of aphorism: abc;
+Content: cba??
+Evaluation: 7.
+Number of punctuation marks: 2.
 
 
-Container contains 3 element
-1: Author of aphorism: abc;
-Content: cba
-Evaluation: 7.
-Number of punctuation marks: 0.
-2: Proverb of country: vvv;
-Content: nnn
+Container contains 4 element
+
+Proverb of country: vvv;
+Content: nnn!
 Evaluation: 6.
-Number of punctuation marks: 0.
-3: Answer to riddle: adr;
-Content: rda
+Number of punctuation marks: 1.
+
+Author of aphorism: abc;
+Content: cba??
+Evaluation: 7.
+Number of punctuation marks: 2.
+
+Author of aphorism: abc;
+Content: cba??
+Evaluation: 7.
+Number of punctuation marks: 2.
+
+Answer to riddle: adr;
+Content: rda!!!?
 Evaluation: 5.
-Number of punctuation marks: 0.
+Number of punctuation marks: 4.
 
 
 Only Aphorism.
-1: Author of aphorism: abc;
-Content: cba
+
+Author of aphorism: abc;
+Content: cba??
 Evaluation: 7.
-Number of punctuation marks: 0.
-2: 
-3: 
+Number of punctuation marks: 2.
+
+Author of aphorism: abc;
+Content: cba??
+Evaluation: 7.
+Number of punctuation marks: 2.
+

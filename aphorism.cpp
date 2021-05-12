@@ -16,7 +16,7 @@ namespace type_phrases {
 	}
 
 	void aphorism::Output(ofstream& ofst) {
-		ofst << "Author of aphorism: " << author << ";" << endl;
+		ofst << "\nAuthor of aphorism: " << author << ";" << endl;
 	}
 
 	bool aphorism::OutputAphorism(ofstream& ofst) {

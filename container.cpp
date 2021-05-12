@@ -43,7 +43,6 @@ namespace type_phrases {
 		cout << "|Container contains " << size << " elements|" << endl;
 		tmp_node = head;
 		for (int i = 0; i < size; i++) {
-			ofst << (i+1) << ": ";
 			if (tmp_node->node_Output(ofst)) {
 				tmp_node = node::node_Next(tmp_node, NULL, 2);
 			}
@@ -59,9 +58,8 @@ namespace type_phrases {
 			return;
 		}
 		tmp_node = head;
-		ofst << "Only Aphorism." << endl;
+		ofst << "Only Aphorism.";
 		for (int i = 0; i < size; i++) {
-			ofst << (i + 1) << ": ";
 			tmp_node->node_OutputAphos(ofst);
 			tmp_node = node::node_Next(tmp_node, NULL, 2);
 		}
